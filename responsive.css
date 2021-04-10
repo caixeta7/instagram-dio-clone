@@ -24,4 +24,8 @@
     .group{
         border: 1px solid transparent;
     }
+
+    .rodape {
+        width: 90%;
+    }
 }
